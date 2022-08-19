@@ -1,2 +1,2 @@
 # ProjetoWeb
- Trabalho do curso programador Web.
+ Projeto do curso Programador Web Senac.
